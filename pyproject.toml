@@ -21,6 +21,8 @@ dependencies = [
   "pip",
   "peakweather",
   "matplotlib>=3.10.8",
+  "tensorboard>=2.20.0",
+  "setuptools<82",
 ]
 
 [tool.uv]
